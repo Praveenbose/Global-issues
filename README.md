@@ -174,3 +174,4 @@ The World Economic Forum, 2024. How US-China relationship is impacting the globa
 World Bank, 2022. China trade balance, exports, imports by country 2021. Available at: https://wits.worldbank.org/CountryProfile/en/Country/CHN/Year/LTST/TradeFlow/EXPIMP/Partner/by-country [Accessed on: 19.06.2024]
 
 
+
