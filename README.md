@@ -42,6 +42,8 @@ Attitudes Towards Globalisation Within the US
 The attitudes toward globalisation in the US are polarised. Most Americans see globalisation as the impetus for economic growth, innovation, and consumer choice. According to a 2021 survey conducted by Pew Research Centre, a clear majority, around 55% of Americans, believe the US's involvement in the global economy to be good for the country, as it provides new markets and opportunities for growth (Atlantic Council, 2024). However, there is also significant opposition. The critics argue that globalisation is the cause of lost jobs, stagnant wages, and lost manufacturing industries due to offshoring and increased competition with low-wage countries. Some of this sentiment found its way into the 2016 presidential race, as then-candidate Donald Trump panned existing trade agreements and touted protectionist policies designed to "bring jobs back" to the US.
  
 Figure 1: FDI Flows in the US
+![image](https://github.com/user-attachments/assets/3fbb9996-0e24-4bf3-adab-15817e1c728b)
+
 (Source: Bureau of Economic Analysis, 2022)
 Actions Taken by the US to Influence Globalisation
 ●	Trade Policy Shifts: Under Trump, the US turned protectionist, withdrawing from TPP and imposing tariffs on China's imports, which led to a trade war. Then, the Democratic administration under Biden tried to recalibrate this agenda by stating that strategic competition with China needed to go hand-in-glove with engagement through multilateral forums under the WTO umbrella.
@@ -54,6 +56,8 @@ Policies and Regulations
 The Chinese approach to globalisation has been one of strategic openness and state control. Since 2001, when it joined the WTO, China has adopted policies aimed at merging into the global economy while keeping the government in a position of power. Some main initiatives included the "Belt and Road Initiative" in 2013, which focused on improving trade and investment flows (Brookings, 2021). The regulation system within China is slowly changing to become more conducive to foreign investment while keeping its national interests safe. The 2020 Foreign Investment Law is designed to level the playing field for foreign investors, yet it also very strictly controls those industries that bear relevance to national security.
  
 Figure 2: China trade balance, exports, imports by country 2021
+![image](https://github.com/user-attachments/assets/3ab37f1f-bb12-4d02-b2a6-acb75390cfcd)
+
 (Source: World Bank, 2022)
 Attitudes Towards Globalisation Within China
 China's attitudes towards globalisation are generally positive, driven by economic benefits and enhanced international standing. The government promotes globalisation for economic development and modernisation, reflected in policies and public discourse. However, there is growing awareness of risks like dependency on foreign technologies and vulnerabilities to global market fluctuations (Mansouri, 2022). In response, the Chinese government introduced "dual circulation," emphasising domestic consumption and international trade to reduce reliance on foreign markets.
